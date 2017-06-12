@@ -1,2 +1,4 @@
 # proofPages
-Check your prrof here
+Check your proof here.
+
+Upload your html file with the adtags in place.

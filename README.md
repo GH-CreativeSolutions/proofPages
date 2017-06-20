@@ -24,7 +24,6 @@ To preview adtags and/or verify that tracking tags are in place:
       "Begin Adtags" and "End Adtags".
   5. Save as your ATOL ad#.html and click "Upload files" in the GitHub repository. Drag your file into the window, scroll to
       the bottom and "Commit Changes".
-  
-Preview according to instructions in the GitPreview extension file (click black dot).
+  6. Click on your ad# to open it, then click on the black dot in the Chrome extension bar to preview.
 
 

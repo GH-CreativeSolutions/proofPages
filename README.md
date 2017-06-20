@@ -9,9 +9,14 @@ To preview adtags and/or verify that tracking tags are in place:
   2. Click the pencil icon to edit this file.
   3. Select All and copy.
   4. Scroll to the bottom and click CANCEL.
+  5. Click on the "proofPages" link at the top left of the page to return to the repository list.
+  6. Click "Create new file."
+  7. Give this file your ad number plus ".html".
+  8. Click in the "Edit new file" window and paste th etext you copied from ADVENTIVE_PROOF.html.
+  9. Scroll down to line 30. Paste your Adventive adtags here. The adtags should be in the section between
+      "Beign Adtags" and "End Adtags".
+  10. Scroll to the bottom and "Commit Changes".
   
-
-
-Upload your html file with the adtags in place. Click on that file to open in GitHub. Preview according to instructions in the GitPreview extension file (click black dot).
+Preview according to instructions in the GitPreview extension file (click black dot).
 
 

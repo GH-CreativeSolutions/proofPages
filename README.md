@@ -22,8 +22,8 @@ To preview adtags and/or verify that tracking tags are in place:
   3. Extract files and edit "ADVENTIVE_PROOF.html" in your code editor.
   4. Scroll down to line 30. Paste your Adventive adtags here. The adtags should be in the section between
       "Begin Adtags" and "End Adtags".
-  5. Save and click "Upload files" in the GitHub repository. Drag your file into the window, scroll to the bottom and
-      "Commit Changes".
+  5. Save as your ATOL ad#.html and click "Upload files" in the GitHub repository. Drag your file into the window, scroll to
+      the bottom and "Commit Changes".
   
 Preview according to instructions in the GitPreview extension file (click black dot).
 
